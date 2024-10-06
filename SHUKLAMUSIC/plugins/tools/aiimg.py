@@ -2,7 +2,7 @@ import requests
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, InputMediaPhoto
 from io import BytesIO
-from DnsXMusic import app
+from SHUKLAMUSIC import app
 
 # Function to generate buttons for model selection (2x3 format)
 def generate_buttons(prompt):
